@@ -1,0 +1,2 @@
+print("Nanana")
+print("nie")
