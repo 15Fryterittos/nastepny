@@ -1,2 +1,2 @@
-print("Nanana")
 print("nie")
+print("nanananna")
