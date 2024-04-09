@@ -1,2 +1,2 @@
-print("Nanana")
-print("nie")
+print("pierwsza linijka lokalnie")
+print("druga linijka lokalnie")
